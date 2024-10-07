@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamed3ssal
 - 👀 I’m interested in cloud computing, virtualization,Networking and IT infrastructure management.
-- 🌱 I’m currently learning AWS Cloud Solution Archetict
+- 🌱 I’m currently learning AWS Cloud Solution Archetict and CCNP
 - 💞️ I’m looking to collaborate on cloud-based projects, especially those involving AWS services or virtualization technologies.
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-elsayed-24a062247/overlay/contact-info/ or via email at mohamedassal52003@gmail.com
 - 😄 Pronouns:He/Him
